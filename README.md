@@ -2,4 +2,3 @@
 <br>⚡ Rubayet here, currently a MS student in CS
 <br>🔭 I’m currently working on fullstack project using React and ASP.Net
 <br>🌱 I’m currently learning C#
-<br>💬 Feel free to ask me about football and tech
