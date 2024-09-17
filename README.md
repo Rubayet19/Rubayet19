@@ -1,6 +1,5 @@
-# Rubayet Mujahid
 
-## About Me
+## Hi There!
 I'm a Fullstack developer currently pursuing my Master's in Computer Science. Passionate about creating efficient and innovative solutions, I'm always eager to learn and apply new technologies in my projects.
 
 ## 🚀 Skills
@@ -13,7 +12,6 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 ## 📊 GitHub Stats
 <div align="center">
 
-![Rubayet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubayet19&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rubayet19&theme=radical)](https://git.io/streak-stats)
 
@@ -30,17 +28,6 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 - [Project 1]: Brief description
 - [Project 2]: Brief description
 - [Project 3]: Brief description
-
-
-
-## 📫 Connect with Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rubayetmujahid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://rubayetmujahid.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
-
-</div>
 
 
 ---
