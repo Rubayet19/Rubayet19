@@ -1,39 +1,3 @@
-<div align="center">
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes typing {
-          from { width: 0 }
-          to { width: 15ch }
-        }
-        
-        .container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 100%;
-          background: #0D1117;
-        }
-        
-        .text {
-          width: 15ch;
-          animation: typing 3s steps(15);
-          white-space: nowrap;
-          overflow: hidden;
-          font-family: monospace;
-          font-size: 24px;
-          color: #E6EDF3;
-        }
-      </style>
-      <div class="container">
-        <div class="text">Hi, I'm Rubayet</div>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-</div>
-
 # Rubayet Mujahid
 
 ## About Me
