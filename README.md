@@ -24,11 +24,6 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 
 </div>
 
-## 🌟 Featured Projects
-- [Project 1]: Brief description
-- [Project 2]: Brief description
-- [Project 3]: Brief description
-
 
 ---
 
