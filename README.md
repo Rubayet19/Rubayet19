@@ -1,13 +1,8 @@
 # Hi there, I'm Rubayet! 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rubayet19&style=flat-square)
 
 ## About Me
-I'm a Computer Science student passionate about coding, soccer, and technology!
-
-- 🌱 I’m currently learning Machine Learning.
-- 🏆 Passed the SHRM exam and certified as a Senior HR Professional.
-- ⚡ Fun fact: I love to play poker.
+I'm a Fullstack developer currently pursuing my Master's in Computer Science 
 
 ## GitHub Stats
 ![Rubayet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubayet19&show_icons=true&theme=radical)
