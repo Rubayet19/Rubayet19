@@ -17,12 +17,7 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 
 </div>
 
-## 💻 Top Languages
-<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubayet19&layout=compact&theme=radical)
-
-</div>
 
 
 ---
