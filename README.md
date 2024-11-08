@@ -19,9 +19,6 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 
 
 
-
----
-
 <div align="center">
   
 
