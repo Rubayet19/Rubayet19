@@ -12,10 +12,10 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </a>
@@ -24,6 +24,7 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
   <a href="#">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   </a>
@@ -38,12 +39,14 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
   <a href="#">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CI/CD-4A154B?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   </a>
 </p>
 <p align="center">
   <a href="#">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -53,23 +56,32 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 
 <div align="center">
   <a href="https://github.com/Rubayet19">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet19&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Rubayet's Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet19&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=58A6FF&color=58A6FF&title_color=58A6FF&area=true" width="100%" alt="Contribution Graph">
   </a>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Rubayet19">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rubayet19&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubayet19&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <div style="background-color: #171515; padding: 15px; border-radius: 6px; min-width: 200px; text-align: left;">
+      <h3 style="color: #ff6b9d; margin-bottom: 15px;">Rubayet's GitHub Stats</h3>
+      <p style="color: #42c3ff; display: flex; align-items: center; margin: 8px 0;">
+        <span style="color: #eac54f; margin-right: 10px;">⏱️</span>
+        <span style="min-width: 180px;">Total Commits:</span>
+        <span style="color: #16c79a;">303</span>
+      </p>
+      <p style="color: #42c3ff; display: flex; align-items: center; margin: 8px 0;">
+        <span style="color: #eac54f; margin-right: 10px;">📅</span>
+        <span style="min-width: 180px;">Contributed to (last year):</span>
+        <span style="color: #16c79a;">4</span>
+      </p>
+    </div>
+  </div>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Rubayet19">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rubayet19&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rubayet19&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
