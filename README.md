@@ -73,10 +73,6 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rubayet19&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
   <a href="https://github.com/Rubayet19">
     <img alt="Snake animation" src="https://github.com/Rubayet19/Rubayet19/blob/output/github-contribution-grid-snake.svg"/>
   </a>
