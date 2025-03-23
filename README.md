@@ -9,14 +9,6 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 - DevOps: Docker, CI/CD, GCP, Heroku Cloud
 - Version Control: Git, GitHub
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rubayet19&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
