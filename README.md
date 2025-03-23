@@ -53,10 +53,9 @@ I'm a Fullstack developer currently pursuing my Master's in Computer Science. Pa
 </p>
 
 ## 📈 Contribution Graph
-
 <div align="center">
   <a href="https://github.com/Rubayet19">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet19&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=58A6FF&color=58A6FF&title_color=58A6FF&area=true" width="100%" alt="Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet19&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=58A6FF&color=58A6FF&title_color=58A6FF&area=true&hide_title=false&radius=8&animation=grow" width="100%" alt="Contribution Graph">
   </a>
 </div>
 
