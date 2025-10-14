@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="auto">
 </div>
 
-I'm a Fullstack developer currently pursuing my Master's in Computer Science. Passionate about creating efficient and innovative solutions, I'm always eager to learn and apply new technologies in my projects.
+I'm a Software Engineer who loves experimenting with new technologies and turning ideas into working products.
 
 ## 🚀 Skills
 
